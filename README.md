@@ -1,6 +1,6 @@
 # ML Project
 
-Fall 2026 Introduction to Machine Learning semester project, using the Hotel Booking Demand dataset to predict whether a booking will be cancelled. The work is organized by assignment.
+Fall 2026 Introduction to Machine Learning semester project.The work is organized by assignment.
 
 ## Repository Structure
 
